@@ -1,5 +1,3 @@
 # flask-practice
 
-## static/images/sample.jpg
-
-[Unsplash](https://unsplash.com/)
++ [Unsplash](https://unsplash.com/)
